@@ -6,5 +6,7 @@ Features:
 - Keyboard input and aesthetic graphics 
 - Customizable rectangles that respond to queries.
 - Time-Varying dynamic animations as the response to a cell query.
+
+Pictures: 
 ![77796364d4bfedc](https://github.com/hadeya3ik/Pixel-Animation-Program/assets/133555427/6ef4c26d-1b38-42d4-8c3f-5878f65ceabb)
 ![tumblr_n41xu5c5Gb1slj15eo1_500](https://github.com/hadeya3ik/Pixel-Animation-Program/assets/133555427/ef5e5ec8-647b-479a-85b9-527c6836b076)
